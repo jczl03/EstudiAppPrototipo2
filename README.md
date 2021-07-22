@@ -23,7 +23,7 @@
 -Acceder por consola a la carpeta dist y ejecutar la linea : 
 
 
--java -jar "ProyectoED1_2.jar"  
+-java -jar "EsudiApp_2.jar" 
 
 
 **Recomendación:**  
